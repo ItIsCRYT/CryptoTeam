@@ -1,0 +1,9 @@
+Building CryptoTeam
+
+See doc/readme-qt.rst for instructions on building CryptoTeam QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of CryptoTeam.
+
+See doc/build-*.txt for instructions on building cryptoteamd,
+the intended-for-services, no-graphical-interface, reference
+implementation of CryptoTeam.
